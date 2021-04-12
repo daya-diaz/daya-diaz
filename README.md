@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hello, Dev(a)s 👋!
+
+#### How are you doing? I hope you and your family are great!
+
+I'm good as well! Thanks for asking!
+My name is Dayane Santos and I'm from Pernambuco in Brazil.
+
+#### Working on
+
+By now I'm working to start my career at Software Development.
+
+#### Studying on
+
+- JavaScript
+- Node.js
+- React.js
+
+#### Contact
+
+If you want to ask something, please contact me on my social media.
+
+* [Instagram](https://www.instagram.com/_daysm/)
+* [Linkedin]()
+* [GitHub](https://github.com/daya-diaz)
 
 <!--
 **daya-diaz/daya-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
