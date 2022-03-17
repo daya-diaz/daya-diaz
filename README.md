@@ -14,12 +14,13 @@ By now I'm working to start my career at Software Development.
 - JavaScript
 - Node.js
 - React.js
+- UI Design
 
 #### Contact
 
 If you want to ask something, please contact me on my social media.
 
-* [Instagram](https://www.instagram.com/_daysm/)
+* [Instagram](https://www.instagram.com/_daydmelo/)
 * [Linkedin](https://www.linkedin.com/in/dayane-santos-melo)
 * [GitHub](https://github.com/daya-diaz)
 
