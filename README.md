@@ -7,13 +7,13 @@ My name is Dayane Santos and I'm from Pernambuco in Brazil.
 
 #### Working on
 
-By now I'm working to start my career at Software Development.
+By now I'm working to start my career at FullStack Designer.
 
 #### Studying on
 
 - JavaScript
-- Node.js
-- React.js
+- HTML & CSS
+- UX Design
 - UI Design
 
 #### Contact
