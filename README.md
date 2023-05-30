@@ -14,6 +14,7 @@ By now I'm working to start my career at Front-end Developer.
 - JavaScript
 - HTML & CSS
 - ReactJS
+- Angular
 - UI Design
 
 #### Contact
