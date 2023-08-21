@@ -11,11 +11,9 @@ By now I'm working to start my career at Front-end Developer.
 
 #### Studying on
 
-- JavaScript
-- HTML & CSS
 - ReactJS
-- Angular
-- UI Design
+- TypeScript
+- Java
 
 #### Contact
 
