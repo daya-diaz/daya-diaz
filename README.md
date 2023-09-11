@@ -7,13 +7,13 @@ My name is Dayane Santos and I'm from Pernambuco in Brazil.
 
 #### Working on
 
-By now I'm working to start my career at Front-end Developer.
+By now I'm working to start my career at Back-end Developer.
 
 #### Studying on
 
-- ReactJS
-- TypeScript
 - Java
+- Spring Boot
+- Angular
 
 #### Contact
 
