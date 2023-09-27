@@ -13,6 +13,7 @@ By now I'm working to start my career at Back-end Developer.
 
 - Java
 - Spring Boot
+- SQL
 - Angular
 
 #### Contact
