@@ -11,10 +11,9 @@ By now I'm working to start my career at Back-end Developer.
 
 #### Studying on
 
-- Java
-- Spring Boot
-- SQL
-- Angular
+- NextJS
+- ReactJS
+- Tailwind
 
 #### Contact
 
