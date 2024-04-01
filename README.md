@@ -1,23 +1,17 @@
-### Hello, Dev(a)s 👋!
+# Nice to meet you. 👋
 
-#### How are you doing? I hope you and your family are great!
+*I'm a passionate front-end developer who loves creating web applications. I believe technology can change the world for the better, and that's what I aim to do.*
 
-I'm good as well! Thanks for asking!
-My name is Dayane Santos and I'm from Pernambuco in Brazil.
+Things I like to do:
 
-#### Working on
+- ✨ Creative Code
+- 🌍 WebSites
+- ⚙️ System applications
 
-By now I'm working on Front-end Developer.
+About me:
 
-#### Studying on
-
-- NextJS
-- ReactJS
-- Tailwind
-
-#### Contact
-
-If you want to ask something, please contact me on my social media.
-
-* [Linkedin](https://www.linkedin.com/in/dayane-santos-melo)
-* [GitHub](https://github.com/daya-diaz)
+- 🌱 I'm currently learning GraphQL and Jest
+- 💡 I try to help people who are starting in programming
+- 💬 Ask me about anything, but know that I'm passionate about technology
+- 📫 How to contact me: [Portfólio](https://main--statuesque-dusk-0f6ed3.netlify.app/) and dayadiazprofissional@gmail.com
+- ⚡ Curiosity: I'm naturally curious, thrive on new challenges, and love working in teams.
