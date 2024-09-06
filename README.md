@@ -1,16 +1,17 @@
 # Nice to meet you. 👋
 
-*I'm a passionate front-end developer who loves creating web applications. I believe technology can change the world for the better, and that's what I aim to do.*
+*I'm a passionate FullStack developer who loves creating web & mobile applications. I believe technology can change the world for the better, and that's what I aim to do.*
 
 Things I like to do:
 
 - ✨ Creative Code
 - 🌍 WebSites
+- 📱 Mobile Apps
 - ⚙️ System applications
 
 About me:
 
-- 🌱 I'm currently learning GraphQL and Jest
+- 🌱 I'm currently learning Jest
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything, but know that I'm passionate about technology
 - 📫 How to contact me: [Portfólio](https://portfolio-silk-ten-16.vercel.app/) and dayadiazprofissional@gmail.com
