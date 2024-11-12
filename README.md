@@ -1,13 +1,12 @@
 # Nice to meet you. 👋
 
-*I'm a passionate FullStack developer who loves creating web & mobile applications. I believe technology can change the world for the better, and that's what I aim to do.*
+*I'm a passionate Front-end developer who loves creating web & mobile applications. I believe technology can change the world for the better, and that's what I aim to do.*
 
 Things I like to do:
 
 - ✨ Creative Code
 - 🌍 WebSites
 - 📱 Mobile Apps
-- ⚙️ System applications
 
 About me:
 
