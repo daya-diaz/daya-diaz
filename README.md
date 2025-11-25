@@ -10,7 +10,7 @@ Things I like to do:
 
 About me:
 
-- 🌱 I'm currently learning Jest
+- 🌱 I'm currently learning NodeJS and NestJs
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything, but know that I'm passionate about technology
 - 📫 How to contact me: [Portfólio](https://portfolio-silk-ten-16.vercel.app/) and dayadiazprofissional@gmail.com
